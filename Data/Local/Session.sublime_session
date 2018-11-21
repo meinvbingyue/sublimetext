@@ -175,22 +175,6 @@
 						"buffer_size": 155,
 						"line_ending": "Unix"
 					}
-				},
-				{
-					"file": "/D/Program Files/sublimetext/Data/Packages/Default/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 16152,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/Program Files/sublimetext/Data/Packages/User/Preferences.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 200,
-						"line_ending": "Unix"
-					}
 				}
 			],
 			"build_system": "",
@@ -205,11 +189,11 @@
 				"selected_items":
 				[
 					[
-						"instal",
+						"install",
 						"Package Control: Install Package"
 					],
 					[
-						"install",
+						"instal",
 						"Package Control: Install Package"
 					],
 					[
@@ -259,6 +243,8 @@
 			],
 			"file_history":
 			[
+				"/D/Program Files/sublimetext/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/Program Files/sublimetext/Data/Packages/User/Preferences.sublime-settings"
 			],
 			"find":
 			{
@@ -299,13 +285,13 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
 							"file": "/D/dev/lnmp/www/common/.gitignore",
-							"semi_transient": true,
+							"semi_transient": false,
 							"settings":
 							{
 								"buffer_size": 155,
@@ -315,8 +301,12 @@
 								"selection":
 								[
 									[
-										0,
-										0
+										71,
+										71
+									],
+									[
+										80,
+										80
 									]
 								],
 								"settings":
@@ -326,66 +316,6 @@
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/Program Files/sublimetext/Data/Packages/Default/Preferences.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 16152,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										688,
-										704
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/Program Files/sublimetext/Data/Packages/User/Preferences.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 200,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										200,
-										200
-									]
-								],
-								"settings":
-								{
-									"origin_encoding": "ASCII",
-									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 180.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -430,7 +360,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,651,52,52,1011",
+			"position": "0,2,3,-1,-1,-1,-1,651,52,52,1011",
 			"project": "",
 			"replace":
 			{
@@ -448,12 +378,12 @@
 			},
 			"select_project":
 			{
-				"height": 0.0,
+				"height": 500.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 380.0
 			},
 			"select_symbol":
 			{
