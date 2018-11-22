@@ -1,11 +1,19 @@
 {
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
-	"font_size": 13.0,
+	"font_size": 13,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"theme": "Soda Dark 3.sublime-theme",
+	"ui_font_roboto_mono": true,
+	"ui_font_size_small": true,
+	"ui_font_source_code_pro": true,
+	"ui_native_titlebar": true,
+	"ui_separator": true,
+	"ui_wide_scrollbars": true,
 	"update_check": false,
 	"word_wrap": "auto"
 }

@@ -1,10 +1,11 @@
 {
 	"folder_history":
 	[
+		"/E/centos/sscf-work/www/product-centre",
 		"/D/dev/lnmp/www/common"
 	],
 	"last_version": 3176,
-	"last_window_id": 2,
+	"last_window_id": 3,
 	"log_indexing": false,
 	"settings":
 	{
@@ -29,6 +30,10 @@
 				[
 					[
 						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
 						"Package Control: Install Package"
 					],
 					[
@@ -68,6 +73,9 @@
 			},
 			"file_history":
 			[
+				"/D/dev/lnmp/www/common/.gitignore",
+				"/D/Program Files/sublimetext/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/Program Files/sublimetext/Data/Packages/User/Preferences.sublime-settings"
 			],
 			"find":
 			{
@@ -129,12 +137,12 @@
 			},
 			"select_project":
 			{
-				"height": 0.0,
+				"height": 500.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 380.0
 			},
 			"select_symbol":
 			{
@@ -169,10 +177,19 @@
 			"buffers":
 			[
 				{
-					"file": "/D/dev/lnmp/www/common/.gitignore",
+					"file": "/E/centos/sscf-work/www/product-centre/www/product.centre.sscf.com/app/Events/Event.php",
 					"settings":
 					{
-						"buffer_size": 155,
+						"buffer_size": 62,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/github/sublimetext/Data/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 352,
+						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				}
@@ -233,16 +250,18 @@
 			},
 			"expanded_folders":
 			[
-				"/D/dev/lnmp/www/common",
-				"/D/dev/lnmp/www/common/db",
-				"/D/dev/lnmp/www/common/doc",
-				"/D/dev/lnmp/www/common/www",
-				"/D/dev/lnmp/www/common/www/app",
-				"/D/dev/lnmp/www/common/www/app/Http",
-				"/D/dev/lnmp/www/common/www/bootstrap"
+				"/E/centos/sscf-work/www/product-centre",
+				"/E/centos/sscf-work/www/product-centre/database",
+				"/E/centos/sscf-work/www/product-centre/diagnose",
+				"/E/centos/sscf-work/www/product-centre/static",
+				"/E/centos/sscf-work/www/product-centre/www",
+				"/E/centos/sscf-work/www/product-centre/www/product.centre.sscf.com",
+				"/E/centos/sscf-work/www/product-centre/www/product.centre.sscf.com/app",
+				"/E/centos/sscf-work/www/product-centre/www/product.centre.sscf.com/app/Events"
 			],
 			"file_history":
 			[
+				"/D/dev/lnmp/www/common/.gitignore",
 				"/D/Program Files/sublimetext/Data/Packages/Default/Preferences.sublime-settings",
 				"/D/Program Files/sublimetext/Data/Packages/User/Preferences.sublime-settings"
 			],
@@ -279,40 +298,65 @@
 			"folders":
 			[
 				{
-					"path": "D:\\dev\\lnmp\\www\\common"
+					"path": "E:\\centos\\sscf-work\\www\\product-centre"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/dev/lnmp/www/common/.gitignore",
-							"semi_transient": false,
+							"file": "/E/centos/sscf-work/www/product-centre/www/product.centre.sscf.com/app/Events/Event.php",
+							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 155,
+								"buffer_size": 62,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										71,
-										71
-									],
-									[
-										80,
-										80
+										0,
+										0
 									]
 								],
 								"settings":
 								{
 									"origin_encoding": "ASCII",
-									"syntax": "Packages/zzz A File Icon zzz/aliases/Shell Script (Git).sublime-syntax"
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/github/sublimetext/Data/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 352,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										352,
+										352
+									]
+								],
+								"settings":
+								{
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -360,7 +404,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,651,52,52,1011",
+			"position": "0,2,3,-32000,-32000,-1,-1,833,234,234,1193",
 			"project": "",
 			"replace":
 			{
@@ -402,12 +446,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 187.0,
+			"side_bar_width": 454.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 2,
+			"window_id": 3,
 			"workspace_name": ""
 		}
 	],
